@@ -1,0 +1,4 @@
+Poorman-dbg adds an output string after each open curly bracket. The string is the current line number + the closest non-whitespace line before the bracket 
+---------
+Run with:
+./p.py <file>.cpp
